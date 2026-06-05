@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($env:PATH = [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"Machine\"\\) + \";\" + [System.Environment]::GetEnvironmentVariable\\(\"PATH\", \"User\"\\); cd \"c:\\\\Users\\\\tapid\\\\Desktop\\\\IA-NoCode\\\\TapiTrade-WebPage\\\\LandingPage-Pro\"; git add .; git commit -m \"Couleur or flamme sur le texte hero italic\"; git push)"
+    ]
+  }
+}
